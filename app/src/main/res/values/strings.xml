@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">User Behaviour</string>
+    <string name="file_key_location_mon">userbehaviour.file.location.mon</string>
+    <string name="file_key_location_tue">userbehaviour.file.location.tue</string>
+    <string name="file_key_location_wed">userbehaviour.file.location.wed</string>
+    <string name="file_key_location_thu">userbehaviour.file.location.thu</string>
+    <string name="file_key_location_fri">userbehaviour.file.location.fri</string>
+    <string name="file_key_location_sat">userbehaviour.file.location.sat</string>
+    <string name="file_key_location_sun">userbehaviour.file.location.sun</string>
+
+    <string name="file_key_activity_mon">userbehaviour.file.activity.mon</string>
+    <string name="file_key_activity_tue">userbehaviour.file.activity.tue</string>
+    <string name="file_key_activity_wed">userbehaviour.file.activity.wed</string>
+    <string name="file_key_activity_thu">userbehaviour.file.activity.thu</string>
+    <string name="file_key_activity_fri">userbehaviour.file.activity.fri</string>
+    <string name="file_key_activity_sat">userbehaviour.file.activity.sat</string>
+    <string name="file_key_activity_sun">userbehaviour.file.activity.sun</string>
 </resources>

@@ -19,10 +19,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <service android:name=".ActivityRecognize" />
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDOpdVbcTlDBe2GN7l0qgXz7EtqqJ5D54A" />
+
+        <activity android:name=".Data"></activity>
     </application>
 
 </manifest>
